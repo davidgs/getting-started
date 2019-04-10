@@ -10,3 +10,4 @@
 | Jason Harris (`jasonharris`) | [Panoply](https://panoply.io) | Evangelist | [Blog](https://techcraver.com) | [@harrisja](https://twitter.com/harrisja) | [techcraver](https://www.github.com/techcraver) |
 | Matt Jarvis (`mattj`) | [Mesosphere](https://dcos.io) | Senior Director, Community and Evangelism | [Blog](https://mattjarvis.org.uk) | [@mattj_io](https://twitter.com/mattj_io) | [mattj-io](https://www.github.com/mattj-io) |
 | H. "Waldo" Grunenwald (`waldo`) | [Datadog](https://datadoghq.com) | Tech Evangelist / Advocate | [Neglected Blog](https://gwaldo.blogspot.com) | [@gwaldo](https://twitter.com/gwaldo) | [gwaldo](https://github.com/gwaldo) |
+| David G. Simmons | [InfluxData](https://influxdata.com) | Senior Developer Evangelist | [Everything](https://davidgs.com) | (@davidgsIoT](https://twitter.com/davidgsIoT) | (davidgs)[https://github.com/davidgs) |
